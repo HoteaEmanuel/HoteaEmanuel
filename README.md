@@ -2,11 +2,12 @@
 
 Software developer student at the West University of Timișoara (Computer Science, year 3).
 
-I like system and architecture design: deciding how a system is split up and where the boundaries go. I'm also a quantum computing enthusiast.
+System and architecture design.
+Recently a quantum computing enthusiast :).
 
 ## Stack
 
-Most experience with **React**, **Next.js**, **Express**, **FastAPI** and **NestJS**. Learning **Spring Boot**.
+Most experience with **React**, **Next.js**, **Express**, **FastAPI** , **NestJS**, **Spring Boot**.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
