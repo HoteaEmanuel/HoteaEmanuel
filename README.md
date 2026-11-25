@@ -1,12 +1,12 @@
 # Emanuel Hotea
 
-Software developer student at the West University of Timișoara, currently in my third year of Computer Science.
+Software developer student at the West University of Timișoara (Computer Science, year 3).
 
-I'm most at home on the full-stack side, and what I enjoy most is the part before the code: deciding how a system should be split up, where the boundaries go, and what will hurt in six months if it's done badly. I'm also curious about quantum computing and try to read and experiment with it when I have time.
+I like system and architecture design: deciding how a system is split up and where the boundaries go. I'm also a quantum computing enthusiast.
 
-## What I work with
+## Stack
 
-Most of my experience is with **React**, **Next.js**, **Express**, **FastAPI** and **NestJS**. I'm currently learning **Spring Boot**, which I'm taking from the Java course into real projects.
+Most experience with **React**, **Next.js**, **Express**, **FastAPI** and **NestJS**. Learning **Spring Boot**.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -18,14 +18,11 @@ Most of my experience is with **React**, **Next.js**, **Express**, **FastAPI** a
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-## Some of what I've built
+## Projects
 
-- **[Fabrica Artizanală](https://fabricaartizanala.ro)**: the ordering site for a family bakery, live and used by real customers. Next.js, PostgreSQL, with the business rules (delivery schedules, order cut-offs, pricing) enforced on the server.
-- **[Universe](https://github.com/HoteaEmanuel/Universe-new)**: a social platform for university students, with web and mobile clients on a single Express API, real-time messaging and Redis caching.
-- **[AutoMinutes](https://github.com/HoteaEmanuel/frontend-AutoMinutes)**: meeting minutes generated from transcripts, built during my IBM summer practice with React, NestJS, GraphQL and MongoDB.
-- **[Smart Energy Saving](https://github.com/HoteaEmanuel/summer-practice-2026)**: an energy-monitoring platform from my Nokia summer practice, with a Flask API and end-to-end tests in Robot Framework.
+- **[Fabrica Artizanală](https://fabricaartizanala.ro)**: live ordering site for a family bakery, used by real customers.
+- **[Universe](https://github.com/HoteaEmanuel/Universe-new)**: social platform for university students, web and mobile.
+- **[AutoMinutes](https://github.com/HoteaEmanuel/frontend-AutoMinutes)**: meeting minutes from transcripts, built at IBM summer practice.
+- **[Smart Energy Saving](https://github.com/HoteaEmanuel/summer-practice-2026)**: energy monitoring platform, built at Nokia summer practice.
 
-## Elsewhere
-
-Based in Timișoara, Romania.
-[LinkedIn](https://www.linkedin.com/in/emanuel-hotea-5842a9356/) · [emanuelhotea1@gmail.com](mailto:emanuelhotea1@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/emanuel-hotea-5842a9356/)
