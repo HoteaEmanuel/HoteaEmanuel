@@ -19,11 +19,5 @@ Most experience with **React**, **Next.js**, **Express**, **FastAPI** , **NestJS
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-## Projects
-
-- **[Fabrica Artizanală](https://fabricaartizanala.ro)**: live ordering site for a family bakery, used by real customers.
-- **[Universe](https://github.com/HoteaEmanuel/Universe-new)**: social platform for university students, web and mobile.
-- **[AutoMinutes](https://github.com/HoteaEmanuel/frontend-AutoMinutes)**: meeting minutes from transcripts, built at IBM summer practice.
-- **[Smart Energy Saving](https://github.com/HoteaEmanuel/summer-practice-2026)**: energy monitoring platform, built at Nokia summer practice.
 
 [LinkedIn](https://www.linkedin.com/in/emanuel-hotea-5842a9356/)
